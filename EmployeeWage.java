@@ -14,9 +14,6 @@ public class EmployeeWage {
 
     private static final int IS_PART_TIME = 2;
 
-    // Naming conventions: class and interfaces => Pascal case(eg: HelloWorld)
-// methods and variables : camel case(eg: instanceVar)
-// constants(final keyword) : Upper-case with underscore (eg: WORKING_HOURS)
     public static void main(String[] args) {
 
         int dayCount = 1;
